@@ -9,6 +9,8 @@
   - [osTicket: Prerequisites and Installation](https://github.com/uzodinma-okafor/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/uzodinma-okafor/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/uzodinma-okafor/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/uzodinma-okafor/configure-ad)
 
 <h2>🤳Connect with me:</h2>
 
